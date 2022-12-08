@@ -12,6 +12,6 @@
   <img align="center" alt="Boni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Boni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
   
-![](https://komarev.com/ghpvc/?username=bonieasy)   
+![](https://komarev.com/ghpvc/?username=bonieasy&color=lightgray)   
 
 </div>
