@@ -1,5 +1,8 @@
 ### Hi there! I'm Ariele Bonifacio 👋
 
+##### I'm graduated in System Development and UX Design and now I'm studying web development technologies.
+
+
 <div align="center">
   <a href="https://github.com/bonieasy">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=bonieasy&show_icons=true&theme=apprentice&hide_border&include_all_commits=true&count_private=true"/>
