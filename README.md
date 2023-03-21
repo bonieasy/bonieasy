@@ -10,12 +10,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Boni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
-  <img align="center" alt="Boni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Boni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Boni-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Boni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <br><br>
-  
+    
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,html,css,figma)](https://skillicons.dev)<br/>  
 </div>
