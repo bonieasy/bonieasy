@@ -12,5 +12,5 @@
   <div style="display: inline_block"><br>
  
     
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,html,css,figma,styledcomponents)](https://skillicons.dev)<br/>  
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,html,css,figma,styledcomponents,materialui)](https://skillicons.dev)<br/>  
 </div>
